@@ -1,1 +1,0 @@
-/home/jvdev/diesel_demo/target/debug/show_posts: /home/jvdev/diesel_demo/src/bin/show_posts.rs /home/jvdev/diesel_demo/src/lib.rs /home/jvdev/diesel_demo/src/models.rs /home/jvdev/diesel_demo/src/schema.rs
